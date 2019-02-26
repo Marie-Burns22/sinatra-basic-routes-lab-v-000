@@ -7,6 +7,6 @@ class App < Sinatra::Base
   
   get('/hometown') {"My hometown is Gold Beach"}
   
-  get('/favorite-song') {"My favorite-song is IDK"}
+  get('/favorite-song') {"My favorite song is IDK"}
   
 end
